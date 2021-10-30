@@ -1,6 +1,6 @@
 # README
 
-This is a a simple backend API that takes an image through a POST request, and returns the segmentated images in local file paths. 
+This is a a simple backend API that takes an image through a POST request, and returns the augmentated images in local file paths. 
 
 ## Supported Function
 
